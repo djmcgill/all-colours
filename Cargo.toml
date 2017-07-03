@@ -1,0 +1,6 @@
+[package]
+name = "min-all-colours"
+version = "0.1.0"
+authors = ["David McGillicuddy <david.mcgillicuddy@moneyfarm.com>"]
+
+[dependencies]
